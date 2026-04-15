@@ -1,9 +1,9 @@
 # Predicting Ranking Quality for Large-Scale Dense Information Retrieval via Score Distribution Modeling
 
-[![Paper](https://img.shields.io/badge/Paper-SIGIR%202026-blue)](TODO)
+[![Paper](https://img.shields.io/badge/Paper-ICTIR%202026-blue)](TODO)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-This repository contains the source code accompanying the SIGIR submission:
+This repository contains the source code accompanying the ICTIR submission:
 
 > **Bridging the Gap Between Subsampled and Full-Corpus Evaluation**
 
@@ -165,8 +165,8 @@ Additionally, for SDM we encode **10,000 randomly sampled non-relevant documents
 Clone the repository:
 
 ```bash
-git clone https://github.com/padas-lab-de/sigir26-score-distribution-model.git
-cd sigir26-score-distribution-model
+git clone https://github.com/padas-lab-de/ictir26-score-distribution-model.git
+cd ictir26-score-distribution-model
 ```
 
 ### Using [Poetry](https://python-poetry.org/) (recommended)
